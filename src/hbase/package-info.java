@@ -1,0 +1,10 @@
+/**
+ * 
+ */
+/**
+ * @author Administrator
+ *
+ */
+package hbase;
+
+
